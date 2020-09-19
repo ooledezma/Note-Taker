@@ -30,8 +30,9 @@ This application assist the user in creating notes.
 
 Screenschot
 
-![](Assets/Title.PNG)
-![](Assets/Notes.PNG)
+![](./assets/Title.PNG)
+![](./assets/Notes.PNG)
+
 ## License
 
 ![License](https://img.shields.io/badge/LICENSE-MIT-GREEN)
